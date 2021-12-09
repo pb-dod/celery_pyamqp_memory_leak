@@ -2,3 +2,4 @@ celery==5.2.0
 amqp==5.0.6
 kombu==5.2.2
 billiard==3.6.4.0
+git+https://github.com/plasma-umass/scalene.git@acef88a9b779418eccf9216f60fd6dd8db5b33c0
